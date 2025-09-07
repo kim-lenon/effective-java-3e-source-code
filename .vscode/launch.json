@@ -1,0 +1,43 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+        "type": "java",
+        "name": "Adult",
+        "request": "launch",
+        "mainClass": "effectivejava.chapter2.item8.Adult",
+        "projectName": "effective-java-3e-source-code_616714c9"
+    },
+    {
+        "type": "java",
+        "name": "Run RomanNumerals with args",
+        "request": "launch",
+        "mainClass": "effectivejava.chapter2.item6.RomanNumerals",
+        "args": [
+            "5",
+            "1000"
+        ]
+    },
+    {
+        "type": "java",
+        "name": "Run Sum with args",
+        "request": "launch",
+        "mainClass": "effectivejava.chapter2.item6.Sum",
+        "args": [
+            "1"
+        ]
+    },
+    {
+        "type": "java",
+        "name": "Run Operation with args",
+        "request": "launch",
+        "mainClass": "effectivejava.chapter7.item42.Operation",
+        "args": [
+            "2",
+            "3"
+        ]
+    }
+]
+}
+
+
